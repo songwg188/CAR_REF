@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+*/__pycache__/*
+*.pyc
+*$py.class
+
+# Mac
+.DS_Store
+*/.DS_Store
+
+# PyTorch
+*.pt
+*.pdf
+*.png
+*.txt
+*.swp
+.vscode
+
+
+dataset
