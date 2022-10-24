@@ -1,5 +1,6 @@
 # CAR_REF
-Reference-based Compression Artifacts Removal Network
+2022 ICIP
+REFERENCE-BASED JPEG IMAGE ARTIFACTS REMOVAL
 
 ## Train
 cd src
